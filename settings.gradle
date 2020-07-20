@@ -1,0 +1,3 @@
+rootProject.name='AAC_Plugin'
+include ':app'
+include ':aac_plugin'
